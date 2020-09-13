@@ -529,6 +529,7 @@ img {
 	color: var(--accent-text-color);
 	font-size: 18px;
 	line-height: 1.556;
+	overflow: hidden;
 	opacity: 0;
 }
 
