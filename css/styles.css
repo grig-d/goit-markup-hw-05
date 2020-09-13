@@ -315,7 +315,7 @@ img {
 	bottom: 27px;
 	width: 100%;
 	margin: 0;
-	font-weight: 700;
+	font-weight: 500;
 	line-height: 1.143;
 	text-transform: uppercase;
 	text-align: center;
@@ -527,8 +527,6 @@ img {
 	position: relative;
 }
 
-/* TODO: before img Rpt 00:42 */
-
 .item-overlay::before {
 	content: "";
 	display: block;
@@ -562,8 +560,6 @@ img {
 .portfolio-item:hover .text-overlay {
 	opacity: 1;
 }
-
-/* TODO: till this */
 
 .footer-background {
 	background-color: var(--footer-background-color);
